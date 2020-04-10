@@ -1,0 +1,1 @@
+此文件来自于Coursera上面的How to win a kaggle competition。发现数据漏洞的主要特征即他们之间的数据分布出现某种特定的数据状态，某种Pattern，才可能有特定的挖掘。
